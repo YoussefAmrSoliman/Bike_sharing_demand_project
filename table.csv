@@ -1,0 +1,4 @@
+model,time_limit,presets,auto_stack,score
+initial,600,best_quality,False,1.80779
+add_features,600,best_quality,False,0.67326
+hpo,200,optimize_for_deployment,True,0.72248
